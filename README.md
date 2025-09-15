@@ -13,7 +13,6 @@ Lic. Actuaría @ ITAM • Maestría en Ciencia de Datos @ITAM
 
 ### 🚀 En qué estoy trabajando
 - Predicción de **cancelaciones de hotel** (ML en R/Python)
-- **Riesgo de crédito bancario** (logit/LASSO, métricas, validación)
 - Demand forecasting con **Ecobici CDMX**
 
 ### 🛠️ Stack que uso
