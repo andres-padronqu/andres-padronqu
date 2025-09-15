@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">¡Hola! Soy Andrés Padrón Quintana 👋</h1>
 <p align="center">
