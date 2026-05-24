@@ -173,8 +173,8 @@ Predicción de cancelación de reservaciones hoteleras utilizando técnicas de c
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-padronqu&show_icons=true&theme=default&cache_seconds=1800"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-padronqu&show_icons=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-padronqu&layout=compact&langs_count=8"/>
 
