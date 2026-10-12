@@ -1,224 +1,169 @@
 
-<h1 align="center">Hola, soy Andrés Padrón Quintana</h1>
+<div align="center">
 
-<p align="center">
-Actuario @ ITAM • Maestría en Ciencia de Datos @ ITAM
-</p>
+# Andrés Padrón Quintana
 
-<p align="center">
-Machine Learning Engineer • Risk Analytics • MLOps • Cloud AI
-</p>
+### Actuario | Maestría en Ciencia de Datos · ITAM
 
-<p align="center">
-  <a href="mailto:andrespadronqu@gmail.com">📧 Correo</a> •
-  <a href="https://www.linkedin.com/in/andrés-padrón-quintana-426798347">LinkedIn</a> •
-  <a href="https://github.com/andres-padronqu">GitHub</a>
-</p>
+**Ciencia de Datos · Machine Learning · Ingeniería de Datos · MLOps · Riesgo de Crédito**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-padrón-quintana-426798347)
+[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andres-padronqu)
+[![Correo](https://img.shields.io/badge/Correo-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrespadronqu@gmail.com)
 
-# 🧠 Tech Stack
+![Visitas al perfil](https://komarev.com/ghpvc/?username=andres-padronqu&style=flat-square&color=0A66C2)
 
-## 📊 Data Science & Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/tidymodels-1A162D?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIME-00C853?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# ☁️ Cloud & MLOps
+## Sobre mí
 
-<p>
+Soy **actuario egresado del ITAM** y estudiante de la **Maestría en Ciencia de Datos** en la misma institución. Mi trabajo combina modelación estadística, aprendizaje automático e ingeniería de datos para desarrollar soluciones analíticas reproducibles y aplicables a problemas reales.
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+He trabajado en **investigación de inteligencia artificial geoespacial en Washington University in St. Louis**, en el desarrollo de **pipelines de datos y soluciones de IA en AWS**, y en proyectos de **riesgo de crédito, pronóstico e inferencia causal**.
 
-<br>
+Me interesa especialmente conectar el ciclo completo de los datos: **ingesta → transformación → modelado → evaluación → despliegue y monitoreo**.
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+## Stack tecnológico
 
-</p>
+### Lenguajes y análisis de datos
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 🚀 Sobre mí
+### Machine Learning, estadística e IA
 
-Soy actuario y estudiante de Maestría en Ciencia de Datos en el ITAM, enfocado en el desarrollo de sistemas de Machine Learning y soluciones analíticas aplicadas a riesgo financiero, crédito y seguros.
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![tidymodels](https://img.shields.io/badge/tidymodels-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge)
+![LIME](https://img.shields.io/badge/LIME-00897B?style=for-the-badge)
 
-Tengo experiencia construyendo pipelines reproducibles y arquitecturas MLOps utilizando AWS, Docker y SageMaker, combinando modelación estadística, machine learning e infraestructura cloud.
+### Cloud, ingeniería de datos y MLOps
 
-Actualmente trabajo en proyectos relacionados con:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge)
+![Athena](https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge)
+![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-- Credit Risk Modeling
-- Financial Machine Learning
-- Explainable AI (SHAP/LIME)
-- Inferencia causal
-- Forecasting y modelos dinámicos
-- MLOps & Cloud AI
-- Deployment de modelos en producción
-- Aplicaciones analíticas con Streamlit
+### Visualización y desarrollo
 
----
-
-# 🔬 Proyectos Destacados
-
-## 📊 Credit Risk Scoring (Tesina)
-
-Modelo de scoring crediticio utilizando enfoques lineales y no lineales para aprobación de crédito.
-
-### Stack
-`R` • `tidymodels` • `Random Forest` • `XGBoost` • `SHAP` • `LIME`
-
-### Highlights
-- Optimización de umbral con índice de Youden
-- Evaluación con ROC-AUC y balanced accuracy
-- Interpretabilidad global y local
-- Comparación entre modelos tradicionales y ensemble methods
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 
 ---
 
-## ⚙️ MLOps Pipeline — Predict Future Sales (Kaggle)
+## Proyectos destacados
 
-Pipeline productivo end-to-end desplegado sobre AWS utilizando contenedores y SageMaker BYOC.
+### 1. Earth Embedding Benchmarks for Geospatial Prediction
 
-### Stack
-`Python` • `Docker` • `AWS SageMaker` • `ECS` • `ECR` • `S3` • `Streamlit`
+**Investigación en IA geoespacial | Washington University in St. Louis**
 
-### Highlights
-- Arquitectura modular (`src/`)
-- BYOC containers en SageMaker
-- Logging y validación automática
-- Entrenamiento reproducible
-- Feature engineering temporal
-- Batch inference
-- Deployment cloud-ready
+Estudio y evaluación de representaciones geoespaciales (*earth embeddings*) obtenidas mediante modelos fundacionales y datos satelitales. Experimentación reproducible con modelos como **AlphaEarth, Clay, Prithvi, SatCLIP y GeoCLIP**, utilizando Python y Google Earth Engine.
 
----
+`Python` · `Deep Learning` · `Geospatial AI` · `Google Earth Engine` · `Foundation Models`
 
-## 🚲 Demand Forecasting — Ecobici CDMX
+[**Ver repositorio**](https://github.com/andres-padronqu/Earth-Embedding-Benchmarks-for-Geospatial-Prediction)
 
-Proyecto de series de tiempo para predicción de demanda utilizando variables temporales y análisis exploratorio.
+### 2. CIFRA AI — Ingeniería de datos en AWS
 
-### Stack
-`Python` • `pandas` • `scikit-learn`
+Desarrollo de flujos para procesar **CFDI en formato XML**, transformar datos mediante una arquitectura **Bronze / Silver / Gold** y habilitar consultas y aplicaciones analíticas en la nube.
 
-### Highlights
-- Forecasting temporal
-- Ingeniería de variables
-- Modelado predictivo de demanda urbana
+`Python` · `AWS S3` · `Glue` · `Athena` · `ECS` · `ECR` · `Streamlit`
 
----
+[**Ver repositorio del proyecto**](https://github.com/ManuelDLTG/CIFRA)
 
-## 🏨 Hotel Booking Cancellation Prediction
+### 3. MLOps Pipeline — Predict Future Sales
 
-Predicción de cancelación de reservaciones hoteleras utilizando técnicas de clasificación y manejo de desbalance.
+Implementación de un flujo reproducible de aprendizaje automático para predicción de ventas, con código modular, contenedores Docker y **SageMaker Pipelines** mediante *Bring Your Own Container* (BYOC). Incluye etapas de procesamiento, entrenamiento e inferencia batch.
 
-### Stack
-`R` • `Python` • `tidymodels` • `SMOTE`
+`Python` · `Docker` · `AWS SageMaker` · `S3` · `MLOps` · `Batch Inference`
 
-### Highlights
-- Manejo de clases desbalanceadas
-- Comparación de modelos lineales vs ensemble
-- Evaluación de sensibilidad y especificidad
+[**Ver repositorio del curso**](https://github.com/andres-padronqu/METODOS_GRAN-_ESCALA_2026)
 
----
+### 4. Modelación del riesgo de crédito — Tesina de Actuaría
 
-# 🏗️ Arquitectura & Herramientas
+Comparación de modelos de clasificación para apoyar decisiones de otorgamiento de crédito. Incluye **regresión logística, Random Forest y XGBoost**, validación cruzada, evaluación de desempeño, optimización del umbral mediante el índice de Youden e interpretabilidad con **SHAP y LIME**.
 
-- AWS SageMaker
-- AWS ECS/Fargate
-- AWS S3
-- AWS ECR
-- PostgreSQL
-- Docker
-- Streamlit
-- GitHub Actions
-- ML Pipelines
-- Batch Inference
-- Feature Engineering Pipelines
-- Model Deployment
-- Logging & Monitoring
+`R` · `tidymodels` · `Random Forest` · `XGBoost` · `SHAP` · `LIME`
+
+### 5. Dynamic Causal Inference
+
+Proyecto académico de inferencia causal aplicada al análisis de datos sobre personas desaparecidas y políticas públicas en México. Estudio de estrategias de identificación y evaluación de efectos mediante métodos estadísticos y causales.
+
+`R` · `Inferencia causal` · `Datos longitudinales` · `Evaluación de políticas públicas`
+
+[**Ver repositorio**](https://github.com/andres-padronqu/dynamic-causal-inference)
+
+### 6. Hotel Booking Cancellation Prediction
+
+Desarrollo y comparación de modelos predictivos para clasificar cancelaciones de reservaciones hoteleras, utilizando regresión logística, Random Forest y XGBoost, con énfasis en preparación de datos y evaluación del desempeño.
+
+`Python` · `R` · `Clasificación` · `Machine Learning`
 
 ---
 
-# 📈 GitHub Stats
+## Experiencia profesional y de investigación
 
-<p align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-padronqu&show_icons=true&include_all_commits=true&count_private=true"/>
+| Periodo | Institución | Experiencia |
+|---|---|---|
+| Jun.–Jul. 2026 | **Washington University in St. Louis** | AI Research Engineer: investigación en modelos de IA geoespacial y pipelines de experimentación. |
+| Ago. 2025–May. 2026 | **SICF** | Data Engineering & AI Intern: procesamiento de CFDI, soluciones analíticas y servicios AWS. |
+| Ene.–Jun. 2025 | **Holiday Inn** | Data Analytics Intern: modelos de predicción de cancelaciones hoteleras. |
+| Ene. 2023–Actualidad | **ITAM** | Coordinador de Automatización y Datos: automatización, analítica y desarrollo de herramientas internas. |
+| Ene.–Dic. 2023 | **REDIGE** | Analista de Datos: SQL, reportes y dashboards con Excel, Tableau y Power BI. |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-padronqu&layout=compact&langs_count=8"/>
+## Formación académica
 
-</p>
+- **Maestría en Ciencia de Datos — ITAM** | 2025–Actualidad  
+  Machine Learning, Deep Learning, Inferencia Causal, MLOps y Optimización.
+- **Licenciatura en Actuaría — ITAM** | 2020–2025  
+  Tesina: *Modelación del riesgo de crédito mediante aprendizaje supervisado*.
+- **Data Science & Artificial Intelligence Applied to Business — HEC Paris** | Verano 2026.
 
----
-
-# 📚 Intereses Académicos
-
-- Credit Risk & Risk Analytics
-- Financial Machine Learning
-- Causal Inference
-- Explainable AI (XAI)
-- Bayesian Modeling
-- MLOps & Cloud AI
-- Decision Making Under Uncertainty
+**Certificaciones y reconocimientos:** Cambridge Advanced English (CAE); Data Science & Machine Learning Applied to Financial Markets (ITAM); Inteligencia de Negocios con Tableau y Power BI (ITAM); CAS Latin America Student Case Competition.
 
 ---
 
-# 🌱 Current Focus
+## Estadísticas de GitHub
 
-- Arquitecturas MLOps en AWS
-- SageMaker Pipelines & BYOC
-- Inferencia causal aplicada
-- Forecasting y modelos dinámicos
-- Deployment de modelos en producción
-- Aplicaciones analíticas con Streamlit
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andres-padronqu&show_icons=true&theme=github_dark&hide_border=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-padronqu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
 
-# 🤝 Colaboración
+</div>
 
-Abierto a colaborar en proyectos relacionados con:
+> Las estadísticas dependen de servicios externos y pueden no mostrarse temporalmente.
 
-- Machine Learning
-- Risk Analytics
-- Financial Modeling
-- Data Science
-- MLOps
-- Actuaría cuantitativa
-- Cloud AI Solutions
+## Áreas de interés
+
+**MLOps y sistemas de ML** · **Ingeniería de datos en la nube** · **Riesgo de crédito** · **IA geoespacial** · **Inferencia causal** · **Modelos predictivos e interpretabilidad**
 
 ---
 
-<p align="center">
-  <em>"Lo que no se mide, no se puede mejorar."</em>
-</p>
+<div align="center">
+
+### Contacto
+
+[LinkedIn](https://www.linkedin.com/in/andrés-padrón-quintana-426798347) · [GitHub](https://github.com/andres-padronqu) · [Correo electrónico](mailto:andrespadronqu@gmail.com)
+
+*De los datos a modelos reproducibles y decisiones fundamentadas.*
+
+</div>
